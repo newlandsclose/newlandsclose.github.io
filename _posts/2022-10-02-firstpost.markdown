@@ -5,7 +5,7 @@ categories: [test]
 tags: [test] # tags should always be in lowercase
 ---
 
-# First post!  
+# First post (renamed)!  
 
 Hello and welcome to my first post!
 
