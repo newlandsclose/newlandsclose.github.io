@@ -9,11 +9,9 @@ Merry Christmas Friends and Neighbours. You are invited to jingle and mingle at 
 
 ![Christmas House](/assets/images/image2.jpeg)
 
-Our Christmas lights will be turned on and shining bright, and we will be entertained and delighted by the fabulous choir. The carol sheet can be downloaded [here(/assets/Newlands-Carols.pdf)] so you can sing along.
+Our Christmas lights will be turned on and shining bright, and we will be entertained and delighted by the fabulous choir. The carol sheet can be downloaded <here(/assets/Newlands-Carols.pdf)> so you can sing along.
 
-We are looking forward to sharing the evening with you, and whilst there will be some sweet treats available, feel free to bring along anything you would like to share.
-
-The Ockley Lane entrance of Newlands Close will be closed between 2pm-10pm for the festivities – between Ockley Lane and Damien Way. Please click [here|(/assets/Newlands-Close-Road-Closure.pdf)] for a map of the closure.
+We are looking forward to sharing the evening with you, and whilst there will be some sweet treats available, feel free to bring along anything you would like to share. The Ockley Lane entrance of Newlands Close will be closed between 2pm-10pm for the festivities – between Ockley Lane and Damien Way. Please click <here|(/assets/Newlands-Close-Road-Closure.pdf)> for a map of the closure.
 
 Schedule: 
 * Choir: 4:30
