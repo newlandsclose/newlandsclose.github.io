@@ -198,3 +198,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+#
+# Custom stuff
+#
+
+imagesurl: "/assets/img/"
+thumbsurl: "/assets/thumbs/"
