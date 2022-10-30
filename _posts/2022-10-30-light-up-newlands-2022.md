@@ -4,6 +4,7 @@ date: 2022-10-30 10:40:00 +0100
 categories: [party]
 tags: [party] # tags should always be in lowercase
 markdown: kramdown
+excerpt_separator: <!--more-->
 ---
 
 It's time to jingle and mingle with our friends and neighbours again! 
@@ -22,3 +23,5 @@ Schedule:
 * 5.30pm - Light Up – ta dah! (Christmas music and food)
 * 6.30pm – Informal finish
 * 8.00pm – Formal finish 
+<!--more-->
+
