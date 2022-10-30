@@ -14,4 +14,11 @@ Join us on Saturday, December the 3rd and sing along with our fabulous choir, en
 
 Join in the gingerbread man decorating and Christmas hat competition! 
 
-The road will be closed from 2:00pm to 10:00pm in front of No. 1 to No. 8 Newlands Close. 
+The road will be closed from 2:00pm to 10:00pm in front of No. 1 to No. 8 Newlands Close.
+
+Schedule: 
+* 4.30pm - Start (Christmas music, mulled wine, minced pies)
+* 5.00pm - Choir (traditional and sing-a-long)
+* 5.30pm - Light Up – ta dah! (Christmas music and food)
+* 6.30pm – Informal finish
+* 8.00pm – Formal finish 
