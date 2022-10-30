@@ -6,4 +6,4 @@ tags: [party] # tags should always be in lowercase
 markdown: kramdown
 ---
 
-{% include my-gallery.html folder="myfolder" %}
+images
