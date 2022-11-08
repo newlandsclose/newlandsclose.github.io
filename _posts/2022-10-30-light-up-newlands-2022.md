@@ -7,13 +7,13 @@ markdown: kramdown
 excerpt_separator: <!--more-->
 ---
 
-It's time to jingle and mingle with our friends and neighbours again! 
+It's time to mingle and jingle with our friends and neighbours again! 
 
 ![Poster](/assets/images/light-up.jpg)
 
 Join us on Saturday, December the 3rd and sing along with our fabulous choir, enjoy a drink of hot chocolate or mulled wine and tuck into mince pies, jacket potatoes and chilli (veggie or meaty). 
 
-Join in the gingerbread man decorating and Christmas hat competition! 
+Play games and join in the gingerbread man decorating and Christmas hat competition! 
 
 The road will be closed from 2:00pm to 10:00pm in front of No. 1 to No. 8 Newlands Close.
 
