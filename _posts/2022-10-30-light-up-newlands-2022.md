@@ -23,5 +23,5 @@ Schedule:
 * 5.30pm - Light Up – ta dah! (Christmas music and food)
 * 6.30pm – Informal finish
 * 8.00pm – Formal finish 
-<!--more-->
 
+We are also fundraising for [The Monday Group](https://mondaygroup.org/)! During our last event we raised £70.40, which went towards improvements of the Roman Road footpath between Keymer and Ditchling. All donations help!
